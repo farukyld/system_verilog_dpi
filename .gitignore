@@ -1,0 +1,5 @@
+.vscode
+vivado*
+*.log
+xsim.dir
+dpi_prj
